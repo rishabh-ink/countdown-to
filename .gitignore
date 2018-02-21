@@ -1,0 +1,7 @@
+# Application
+.env
+/build
+
+# Infrastructure
+node_modules
+.log
